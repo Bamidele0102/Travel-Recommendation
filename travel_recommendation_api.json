@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Malibu Beach",
+        "type": "beach",
+        "description": "Beautiful sandy beach with clear blue waters.",
+        "imageUrl": "images/malibu_beach.jpg"
+    },
+    {
+        "name": "Bondi Beach",
+        "type": "beach",
+        "description": "Popular beach in Australia known for its surf waves.",
+        "imageUrl": "images/bondi_beach.jpg"
+    },
+    {
+        "name": "Angkor Wat",
+        "type": "temple",
+        "description": "Ancient temple complex in Cambodia.",
+        "imageUrl": "images/angkor_wat.jpg"
+    },
+    {
+        "name": "Borobudur",
+        "type": "temple",
+        "description": "9th-century Mahayana Buddhist temple in Indonesia.",
+        "imageUrl": "images/borobudur.jpg"
+    },
+    {
+        "name": "Japan",
+        "type": "country",
+        "description": "Land of the rising sun, known for its unique culture and traditions.",
+        "imageUrl": "images/japan.jpg"
+    },
+    {
+        "name": "France",
+        "type": "country",
+        "description": "Famous for its cuisine, art, and the Eiffel Tower.",
+        "imageUrl": "images/france.jpg"
+    }
+]
