@@ -19,11 +19,11 @@ This is a travel recommendation web page built with HTML, JavaScript, and CSS. I
 
 To set up the project locally, follow these steps:
 
-1. Clone the repository: `git clone `
-2. Navigate into the project directory: `cd travel-recommendation-webpage`
+1. Clone the repository: `git clone https://github.com/Bamidele0102/Travel-Recommendation.git`
+2. Navigate into the project directory: `cd Travel-Recommendation`
 3. Open the `index.html` file in your browser to view the webpage
 
-The project is deployed using GitHub Pages. You can view the live site at ``
+The project is deployed using GitHub Pages. You can view the live site at `https://bamidele0102.github.io/Travel-Recommendation/`
 
 ## Contributing
 
